@@ -5,6 +5,6 @@ terraform {
 }
 
 provider "github" {
-  organization = "wahlnetwork"
+  organization = "jessmaldonado"
   token        = var.github_token
 }
