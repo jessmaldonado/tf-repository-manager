@@ -1,4 +1,4 @@
 variable "github_token" {
   type        = string
-  description = "Personal access tokens (PATs) for authentication to GitHub."
+  description = "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"
 }
