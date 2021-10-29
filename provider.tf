@@ -1,6 +1,9 @@
 terraform {
   required_providers {
-    github = "~> 2.9.2"
+    github = {
+      source = "/"
+      versionversion = "~> 2.9.2"
+    } 
   }
 }
 
